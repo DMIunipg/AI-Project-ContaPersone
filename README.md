@@ -1,2 +1,2 @@
 # AI-Project-ContaPersone
-To do...
+Software C++ che conta il numero di persone in un video.
